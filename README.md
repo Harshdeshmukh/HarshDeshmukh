@@ -6,7 +6,7 @@ I am a passionate Software Engineer dedicated to crafting seamless web experienc
 
 - 🌍  I'm based in India.
 - 🖥️  Checkout my portfolio: [harshvardhandeshmukh.in](https://harshvardhandeshmukh.in/)
-- ✉️  Reach out to me: [deshmukhharsh2507@gmail.com](mailto:deshmukhharsh2507@gmail.com)
+- ✉️  Reach out to me: [harshdeshmukh.dev@gmail.com](mailto:harshdeshmukh.dev@gmail.com)
 - 🧠  Currently mastering: **MERN Stack & Cloud Services**
 - 🤝  I'm open to collaborating on Full-Stack Open Source projects.
 - ⚡  Fun fact: My code doesn't always work, but when it does, I have no idea why.
