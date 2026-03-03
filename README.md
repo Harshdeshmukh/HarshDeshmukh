@@ -29,22 +29,11 @@ I am a passionate Software Engineer dedicated to crafting seamless web experienc
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Spotify Clone](https://github.com/HarshScripts22/spotify-reactclone)** | A high-fidelity music streaming clone with playlist management. | React, Context API, CSS |
-| **[Sorting Studio](https://github.com/HarshScripts22/SortingStudio)** | A visualizer for various sorting algorithms to help students learn DSA. | JavaScript, HTML, CSS |
-| **[To-do List](https://github.com/HarshScripts22/To-do-List)** | A powerful task management tool with a clean UI. | HTML, CSS, JS |
-| **[Portfolio](https://harshvardhandeshmukh.in/)** | My personal 3D-integrated interactive portfolio. | Three.js, React, R3F |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshScripts22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshScripts22&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshDeshmukh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDeshmukh&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
