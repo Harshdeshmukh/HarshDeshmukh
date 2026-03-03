@@ -34,16 +34,7 @@ I am a passionate Software Engineer dedicated to crafting seamless web experienc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshdeshmukh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harsh Deshmukh's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdeshmukh&layout=compact&langs_count=7&theme=tokyonight" alt="Harsh Deshmukh's Top Languages"/>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=harshdeshmukh&theme=tokyonight&hide_border=true" alt="Harsh Deshmukh's Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdeshmukh&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
